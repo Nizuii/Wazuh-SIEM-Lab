@@ -23,6 +23,8 @@ docker compose -f generate-indexer-certs.yml run --rm generator
 docker compose up -d
 ```
 
+<img width="1882" height="961" alt="image" src="https://github.com/user-attachments/assets/6b154039-066c-4c54-ab7c-1b3eb6b6fa9d" />
+
 After the deployment is completed wait for 2 to 3 minutes for the dashboard to load. After that open the browser and enter: `https://localhost` or `https://<private ip address>`.
 
 ## 1. Setting up endpoint.
