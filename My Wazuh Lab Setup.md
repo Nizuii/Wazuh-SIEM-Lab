@@ -56,3 +56,4 @@ sudo systemctl start wazuh-agent
 ```bash
 sudo systemctl status wazuh-agent
 ```
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4265e2a5-fe61-4824-8d56-c784b387b261" />
